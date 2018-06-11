@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CollapsingToolbar</string>
+    <string name="title">Collapsing Toolbar</string>
+    <string name="description">
+        This page uses collapsing toolbar, "\n"
+        just scroll up or down to see "\n"
+         the awesome magic.
+    </string>
+</resources>
